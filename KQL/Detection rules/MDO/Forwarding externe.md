@@ -1,4 +1,4 @@
-Inbox rules : forwarding externe
+/Inbox rules : forwarding externe
 
 ```
 //Titre: Règles de forwarding/redirection externe
