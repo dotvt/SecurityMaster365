@@ -1,6 +1,6 @@
 /Inbox rules : forwarding externe
 
-```
+```KQL
 //Titre: Règles de forwarding/redirection externe
 //description: Detects scenarios where an attacker creates a forwarding rules to a non company email in order to collect information.
 //References:
