@@ -30,6 +30,7 @@ CloudAppEvents
         "ForwardTo",
         "ForwardingAddress",
         "RedirectMessageTo")
+// Remplacer les nom de domaines par ceux de l'organisation
 | where not( RawEventData.Parameters has_any (
         "@domain1.com", 
         "@domain2.com",
