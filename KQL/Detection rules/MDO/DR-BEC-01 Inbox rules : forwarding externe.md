@@ -10,6 +10,8 @@
 - **Techniques** 
     -  attack.collection
     -  attack.t1114.003
+ - **Tables**
+   - CloudAppEvents
 
 
 ## Defender Custom Detection Rules
