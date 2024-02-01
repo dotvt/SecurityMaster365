@@ -1,7 +1,7 @@
 # Inbox rules : forwarding externe
 
-- **Description :**
- - Cette requête permet de rechercher l'ensemble des règles créés sur une boîte mail redirigeant des e-mails chez un domaine n'appartenant pas à l'organisation.
+- **Description**
+    - Cette requête permet de rechercher l'ensemble des règles créés sur une boîte mail redirigeant des e-mails chez un domaine n'appartenant pas à l'organisation.
 - **Références :** 
 
 ## Defender Custom Detection Rules
