@@ -1,8 +1,8 @@
-#Inbox rules : forwarding externe
+# Inbox rules : forwarding externe
 
 Cette requête permet de rechercher l'ensemble des règles créés sur une boîte mail redirigeant des e-mails chez un domaine n'appartenant pas à l'organisation.
 
-##Defender Custom Detection Rules
+## Defender Custom Detection Rules
 ```KQL
 //Titre: Règles de forwarding/redirection externe
 //description: Detects scenarios where an attacker creates a forwarding rules to a non company email in order to collect information.
