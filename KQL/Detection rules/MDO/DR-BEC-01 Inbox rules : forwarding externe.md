@@ -30,12 +30,12 @@ CloudAppEvents
         "ForwardTo",
         "ForwardingAddress",
         "RedirectMessageTo")
-// Remplacer les nom de domaines par ceux de l'organisation
+// Remplacer {Domain} par les domaines de l'organisation.
 | where not( RawEventData.Parameters has_any (
-        "@domain1.com", 
-        "@domain2.com",
-        "@domain3.com",
-        "@domain3.com"))
+        "{Domain}", 
+        "{Domain}",
+        "{Domain}",
+        "{Domain}"))
 | where RawEventData.Parameters contains "@"
 | project Timestamp, ActionType, AccountDisplayName, RuleConfig = RawEventData.Parameters, RawEventData, ReportId, AccountId
 | sort by Timestamp
