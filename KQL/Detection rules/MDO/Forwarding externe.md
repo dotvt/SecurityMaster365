@@ -2,7 +2,17 @@
 
 - **Description**
     - Cette requête permet de rechercher l'ensemble des règles créés sur une boîte mail redirigeant des e-mails chez un domaine n'appartenant pas à l'organisation.
-- **Références :** 
+- **Références** 
+    - https://redcanary.com/blog/email-forwarding-rules/
+    - https://www.mandiant.com/sites/default/files/2021-11/wp-m-unc2452-000343.pdf
+    - https://www.microsoft.com/en-us/security/blog/2023/06/08/detecting-and-mitigating-a-multi-stage-aitm-phishing-and-bec-campaign/
+    - https://raw.githubusercontent.com/PwC-IR/Business-Email-Compromise-Guide/main/PwC-Business_Email_Compromise-Guide.pdf
+- **Techniques** 
+    -  attack.collection
+    -  attack.t1114.003
+
+
+
 
 ## Defender Custom Detection Rules
 ```KQL
