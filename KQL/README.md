@@ -5,8 +5,10 @@
 | IdentityAndSecurityDotCom | Threat Hunting | [Lien](https://identityandsecuritydotcom.files.wordpress.com/2020/08/kql_internals_hk.pdf) |
 | LearningKijo | Threat Hunting | [Lien](https://github.com/LearningKijo) |
 
-### Nomenclature
-Type de requête-Catégorie-Numéro Titre
+### Nomenclature des requêtes
+La nomenclature des requêtes suit le schéma suivant : 
+
+**Type de requête**-**Catégorie**-**Numéro** Titre
 
 
 **exemple :** DR-BEC-01 Inbox rules : forwarding externe
