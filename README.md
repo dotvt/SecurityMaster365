@@ -1,2 +1,3 @@
-# Microsoft365
-Ce repo contient l'ensemble des ressources mis à disposition afin de sécuriser l'ensemble de ses produits Microsoft 365. 
+# SecurityMaster365
+
+Ce repo a pour objectif de regrouper l'ensemble des ressources nécessaires ou facilitant la sécurisation de son Tenant Microsoft365, que ce soit à la configuration ou la supervision. 
