@@ -12,9 +12,9 @@ Type de requête-Catégorie-Numéro Titre
 **exemple :** DR-BEC-01 Inbox rules : forwarding externe
 
 - Types de requêtes :
-  - **AH :** Advanced Hunting
-  - **DR :** Detection Rules
-  - **RPT :** Reporting
+  - **AH :** [Advanced Hunting](https://github.com/dotvt/SecurityMaster365/tree/fdbd7e2014c47387d743eade61fb258cc9f11ac8/KQL/Hunting)
+  - **DR :** [Detection Rules](https://github.com/dotvt/SecurityMaster365/tree/fdbd7e2014c47387d743eade61fb258cc9f11ac8/KQL/Detection%20rules)
+  - **RPT :** [Reporting](https://github.com/dotvt/SecurityMaster365/tree/e8f0988573e0bd30ee36118b8ca6726f4a946fd3/KQL/Reporting)
 
 - Catégories :
   - **BEC :** Business Email Compromise
