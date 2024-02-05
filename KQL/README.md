@@ -1,4 +1,11 @@
-Nomenclature : 
+### Autres sources de requêtes KQL 
+| Editeur | Catégorie | Lien |
+| --- | --- | --- |
+| KustoKing | Threat Hunting | [Lien](https://www.kustoking.com) |
+| IdentityAndSecurityDotCom | Threat Hunting | [Lien](https://identityandsecuritydotcom.files.wordpress.com/2020/08/kql_internals_hk.pdf) |
+| LearningKijo | Threat Hunting | [Lien](https://github.com/LearningKijo) |
+
+### Nomenclature
 Type de requête-Catégorie-Numéro Titre
 
 
