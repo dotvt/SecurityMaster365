@@ -6,6 +6,9 @@
     -  Email collection T1114
  - **Tables**
    - CloudAppEvents
+     
+> [!NOTE]
+> Il est fortement recommandé de bloquer le forwarding automatisé dans les stratégies **anti-spam outbound** Microsoft Defender for Office.
 
 ### Defender Advanced Hunting Query 
 ```KQL
