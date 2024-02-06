@@ -1,7 +1,11 @@
 # Clic autorisé sur une URL
 
 - **Description**
-    - Cette requête permet de rechercher l'ensemble des clics autorisés sur une URL reçue dans un mail (condition : le tracking des clics doit être autorisés dans les stratégies **SafeLink**
+    - Cette requête permet de rechercher l'ensemble des clics autorisés sur une URL reçue dans un mail
+ 
+> [!WARNING]
+> le tracking des clics doit être autorisés dans les stratégies **SafeLink**
+
 - **Techniques** 
     -  attack.collection
     -  attack.t1114.003
