@@ -5,6 +5,8 @@
 | IdentityAndSecurityDotCom | Threat Hunting | [Lien](https://identityandsecuritydotcom.files.wordpress.com/2020/08/kql_internals_hk.pdf) |
 | LearningKijo | Threat Hunting | [Lien](https://github.com/LearningKijo) |
 | Bert-JanP | Threat Hunting | [Lien](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/tree/main) |
+| Cloudbrothers | Threat Hunting | [Lien](https://cloudbrothers.info/en/posts/) |
+
 
 ### Nomenclature des requêtes
 La nomenclature des requêtes suit le schéma suivant : 
