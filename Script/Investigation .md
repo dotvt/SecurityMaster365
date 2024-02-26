@@ -1,4 +1,4 @@
-Voici une liste non exhaustive de script permettant d'investiguer son environnement cloud Microsoft 365.
+Voici une liste non exhaustive de script permettant d'investiguer depuis son environnement Microsoft 365.
 | Editeur | Script | Utilité | Lien |
 | --- | --- | --- | --- |
 | ANSSI | O365RC | Script office 365 | [Lien](https://github.com/ANSSI-FR/DFIR-O365RC) |
