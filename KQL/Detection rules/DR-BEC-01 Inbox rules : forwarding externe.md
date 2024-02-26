@@ -14,7 +14,7 @@
    - CloudAppEvents
 
 
-### Defender Custom Detection Rules
+### Defender XDR : Custom Detection Rules
 ```KQL
 CloudAppEvents
 | where ActionType in (
