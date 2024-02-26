@@ -14,7 +14,7 @@
    - EmailEvents
 
 
-### Defender Advanced Hunting Query 
+### Defender XDR : Advanced Hunting Query 
 ```KQL
 UrlClickEvents
 // Remplacer {date} par le temps recherché sous le format YYYY-MM-DD ou YYYY-MM-DD HH:MM pour une meilleure précision
