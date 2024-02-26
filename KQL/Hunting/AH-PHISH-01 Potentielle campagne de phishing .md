@@ -1,4 +1,4 @@
-# Inbox rules vers une adresse particulière
+# Potentielle campagne de phishing
 
 - **Description**
     - Cette requête permet d'identifier les potentielles campagnes de phishing envoyées par un domaine peu fréquent.
