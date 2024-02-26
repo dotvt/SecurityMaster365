@@ -10,7 +10,7 @@
 > [!NOTE]
 > Il est fortement recommandé de bloquer le forwarding automatisé dans les stratégies **anti-spam outbound** Microsoft Defender for Office.
 
-### Defender Advanced Hunting Query 
+### Defender XDR : Advanced Hunting Query 
 ```KQL
 let action_types = pack_array(
     "New-InboxRule",
