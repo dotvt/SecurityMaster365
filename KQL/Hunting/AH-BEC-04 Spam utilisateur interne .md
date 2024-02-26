@@ -11,7 +11,7 @@
 > Il est fortement recommandé d'activer une limite d'envois dans les stratégies **anti-spam outbound** Microsoft Defender for Office
 
 
-### Defender Advanced Hunting Query 
+### Defender XDR : Advanced Hunting Query 
 ```KQL
 EmailEvents
 // Remplacer {date} par le temps recherché sous le format YYYY-MM-DD ou YYYY-MM-DD HH:MM pour une meilleure précision
