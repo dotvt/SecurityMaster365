@@ -12,7 +12,7 @@
    - EmailEvents
 
 
-### Defender Custom Detection Rules
+### Defender XDR : Custom Detection Rules
 ```KQL
 EmailEvents
 | where Subject contains "Voicemail" or SenderFromAddress contains "quarlessa" 
