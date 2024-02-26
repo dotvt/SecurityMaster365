@@ -7,7 +7,7 @@
  - **Tables**
    - EmailEvents
   
-### Defender Advanced Hunting Query 
+### Defender XDR : Advanced Hunting Query 
 ```KQL
 // Remplacer {Trigger} par le nombre de mail envoyé
 let RareDomainThreshold = {Trigger};
