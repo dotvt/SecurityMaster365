@@ -6,7 +6,7 @@
 | LearningKijo | Threat Hunting | [Lien](https://github.com/LearningKijo) |
 | Bert-JanP | Threat Hunting | [Lien](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/tree/main) |
 | Cloudbrothers | Threat Hunting | [Lien](https://cloudbrothers.info/en/posts/) |
-
+| cyb3rmik3 | Threat Hunting | [Lien](https://github.com/cyb3rmik3/KQL-threat-hunting-queries/tree/main) |
 
 ### Nomenclature des requêtes
 La nomenclature des requêtes suit le schéma suivant : 
