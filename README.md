@@ -1,4 +1,4 @@
-![logo](https://github.com/dotvt/SecurityMaster365/blob/c2435aa008c2a4fa46b61b5e4d213a3c47595b03/logo.png)
+![logo](https://github.com/dotvt/SecurityMaster365/blob/fb8e4b393ea6497c2eb0fe51f34e6d0cc2446307/logo.png)
 
 Ce repo a pour objectif de regrouper l'ensemble des ressources nécessaires ou facilitant la sécurisation de son Tenant Microsoft365, que ce soit à la configuration ou la supervision. 
 
