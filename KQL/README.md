@@ -1,6 +1,7 @@
 ### Autres sources de requêtes KQL 
 | Editeur | Catégorie | Lien |
 | --- | --- | --- |
+| KQL search | Threat Hunting | [Lien](https://www.kqlsearch.com/) |
 | KustoKing | Threat Hunting | [Lien](https://www.kustoking.com) |
 | IdentityAndSecurityDotCom | Threat Hunting | [Lien](https://identityandsecuritydotcom.files.wordpress.com/2020/08/kql_internals_hk.pdf) |
 | LearningKijo | Threat Hunting | [Lien](https://github.com/LearningKijo) |
