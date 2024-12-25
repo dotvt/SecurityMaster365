@@ -9,7 +9,7 @@ Le KQL est le language de requête Microsoft pouvant servir à différents types
 
 Ce language peut-être utilisés dans différents modules : **Log Analytics**, **Workbooks**, **Defender**. 
 
-### [Script & Modules](https://github.com/dotvt/SecurityMaster365/tree/7fe96fdb86e56e7e1e32d9644a7f9fba34d9d9f9/Script)
+### [Tools](https://github.com/dotvt/SecurityMaster365/tree/7fe96fdb86e56e7e1e32d9644a7f9fba34d9d9f9/Script)
 Différents Script développés par la communauté peuvent s'avérer utiles à des fins différentes qui seront classifiés en 2 parties majeures : 
 
 **Configuration :** afin de vérifier que la configuration du Tenant répond aux bonnes pratiques afin d'améliorer les capacités de préventions ainsi que la réduction de surface d'attaque. 
